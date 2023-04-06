@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyGen", "KeyGen\KeyGen.csproj", "{137C7154-F3E2-4463-95D5-0F06576DD11F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebPusher", "WebPush\WebPusher.csproj", "{023C8007-566D-4AA7-8F47-D7DF522D9124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137C7154-F3E2-4463-95D5-0F06576DD11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137C7154-F3E2-4463-95D5-0F06576DD11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137C7154-F3E2-4463-95D5-0F06576DD11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137C7154-F3E2-4463-95D5-0F06576DD11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023C8007-566D-4AA7-8F47-D7DF522D9124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023C8007-566D-4AA7-8F47-D7DF522D9124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023C8007-566D-4AA7-8F47-D7DF522D9124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023C8007-566D-4AA7-8F47-D7DF522D9124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B25BEB6D-0E8A-4248-A75F-E70179AE2417}
+	EndGlobalSection
+EndGlobal

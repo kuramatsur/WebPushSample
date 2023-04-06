@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Push": {
+      "commandName": "Project",
+      "commandLineArgs": "serverkey.txt subscribers.txt"
+    }
+  }
+}
